@@ -1,0 +1,12 @@
+REPO_TAGLINE: High-performance networking • protocols • backbones
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SSC0144-Redes-De-Alto-Desempenho
+
+BG_1: "#0B1220"
+BG_2: "#1B2540"
+TEXT_MAIN: "#F1F5FF"
+TEXT_MUTED: "#C0CBE6"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
