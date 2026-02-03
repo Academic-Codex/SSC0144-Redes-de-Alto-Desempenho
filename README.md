@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SSC0144-Redes-de-Alto-Desempenho">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:41:13.216237Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SSC0144-Redes-de-Alto-Desempenho?utm_source=SSC0144-Redes-de-Alto-Desempenho&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:27.676484Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
